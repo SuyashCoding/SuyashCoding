@@ -10,3 +10,5 @@ A sophomore at <b>North Carolina State University</b>, pursuing a <b>major in Co
          style="display: block; margin: auto;" />
 </a>
 </p>
+<h1></h1>
+<h3 align="center"><a href="https://suyashcoding.github.io/Welcome/">Resume</a></h3>
